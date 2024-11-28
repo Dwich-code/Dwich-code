@@ -15,4 +15,10 @@ i'm
   french
   friends of [@m6a5x98](https://github.com/M6a5x98/)
 
-### my project
+## my project
+### finish
++ no one
+### in progress
++ journalistAI
+### ambisious
++ no one
