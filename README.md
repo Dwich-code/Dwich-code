@@ -1,7 +1,7 @@
 # DWICH HOMEPAGES
 hi, thank you for coming!
 
-## my stats(not great):
+## my stats(very bad):
 
 ![You have not missed nothing](https://github-readme-stats.vercel.app/api?username=Dwich-code&theme=vue-dark) 
 
